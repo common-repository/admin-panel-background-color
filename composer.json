@@ -1,0 +1,8 @@
+{
+  "name": "admin-panel-background-color",
+  "type": "wordpress-plugin",
+  "description": "Plugin that makes possible to customize background color of the admin panel.",
+	"autoload": {
+        "classmap": ["src/", "vendor/scssphp/"]
+    }
+}
